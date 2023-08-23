@@ -5,7 +5,7 @@ Library     BuiltIn
 
 *** Variable ***
 ${URL}      https://www.saucedemo.com/v1/
-${BROWSER}      edge
+${BROWSER}      chrome
 ${STRD_USR}     standard_user
 ${LKED_USR}     locked_out_user
 ${PRBM_USR}     problem_user
