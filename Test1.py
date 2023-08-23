@@ -1,1 +1,1 @@
-Print("Hello India")
+print("Hello India")
